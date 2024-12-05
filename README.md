@@ -25,7 +25,7 @@ A modern, responsive portfolio website showcasing my work and skills as a softwa
 ## Setup and Installation
 
 1. Clone the repository:   ```bash
-   git clone https://github.com/yourusername/portfolio.git   ```
+   git clone https://github.com/dazai2003/Portfolio-Website   ```
 
 2. Navigate to the project directory:   ```bash
    cd portfolio   ```
@@ -33,3 +33,14 @@ A modern, responsive portfolio website showcasing my work and skills as a softwa
 3. Open `index.html` in your browser or use a local server.
 
 ## Project Structure
+
+portfolio/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│ ├── images/
+│ └── files/
+├── README.md
+└── .gitignore
