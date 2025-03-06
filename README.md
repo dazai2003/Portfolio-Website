@@ -37,10 +37,17 @@ A modern, responsive portfolio website showcasing my work and skills as a softwa
 portfolio/
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── assets/
+
 │ ├── images/
+
 │ └── files/
+
 ├── README.md
+
 └── .gitignore
